@@ -1,27 +1,24 @@
 ## Pigs Management System
 
-You can use the [editor on GitHub](https://github.com/Kaypha/pigs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+System for managing Boars, sows and piglets in a farm.
+Stock management is also included.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Boars
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Manage all male pigs in a farm.
+Insert their records--includes feeds and weight, vaccination and treatment etc
 
-```markdown
-Syntax highlighted code block
+### Sows
+Manage pregnant pigs on the farm, their delivery, number of piglets birthed and their medication.
 
-# Header 1
-## Header 2
-### Header 3
+### Stock
+Keep a record of the feeds needed by the piglets, boars and sows on the farm.
 
-- Bulleted
-- List
+### Piglets/Weaners
+Keep record of  all weaners to finishers on the farm.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
